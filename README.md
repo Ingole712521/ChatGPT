@@ -24,10 +24,9 @@ ChatGPT is a state-of-the-art language model designed to generate human-like tex
 
 To get started with the ChatGPT project, follow these steps:
 
-1. Clone this repository to your local machine: `git clone https://github.com/yourusername/chatgpt-project.git`
+1. Clone this repository to your local machine: `git clone https://github.com/Ingole712521/ChatGPT.git`
 2. Install the required dependencies by running: `pip install -r requirements.txt`
 3. Obtain your GPT-3.5 API key from OpenAI and replace `'YOUR_API_KEY'` in the code with your actual API key.
-4. Run the chatbot application: `python chatbot.py`
 
 ## Project Structure
 
@@ -50,9 +49,6 @@ The project structure is organized as follows:
 
 The chatbot can be used both as a command-line application and as a web-based application. Users can converse with the chatbot by sending messages through the terminal or a web browser, depending on the chosen mode of interaction.
 
-## Configuration
-
-In the `config.py` file, you can adjust various settings such as the maximum token limit per response, the chat history length, and more. Modify these settings to tailor the chatbot's behavior to your requirements.
 
 ## Deployment
 
