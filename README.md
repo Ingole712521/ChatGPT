@@ -1,20 +1,4 @@
-# ChatGPT Project
 
-![ChatGPT Logo](logo.png)
-
-Welcome to the ChatGPT project! This repository contains code and resources related to building and deploying a chatbot powered by the GPT-3.5 language model developed by OpenAI. Whether you're new to the world of AI-powered chatbots or an experienced developer, this project will help you create an interactive and engaging conversational agent.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Deployment](#deployment)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
