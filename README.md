@@ -1,5 +1,5 @@
 Certainly! Below is a brief template you can use for a README file about ChatGPT:
-
+Need to add the API key of CHATGPT to run this project
 ---
 
 # ChatGPT
